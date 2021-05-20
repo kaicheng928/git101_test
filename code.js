@@ -1,4 +1,4 @@
-code
+!!!new-feature
 second line
 third line
 new-feature
